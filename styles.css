@@ -4,6 +4,11 @@ h1{
     color: wheat;
     padding-top: 50px;
 }
+#im1{
+    width:100px;
+    height:100px;
+    float:left;
+}
 body{
     background-color: black;
 }
